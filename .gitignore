@@ -1,0 +1,5 @@
+.idea
+.vscode
+Pipfile.lock
+__pycache__
+config/.env
